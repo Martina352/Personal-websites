@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+header {
+    margin-left: 50px;
+    font-size: 35px;
+}
+
+body {
+    margin: auto;
+}
+
+#navbar {
+
+}
+
+#slider {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+}
+
+.image-title {
+    margin: auto;
+    padding-bottom: 50px;
+    font-size: 30px;
+}
+
+img {
+    width: 40%;
+    margin: auto;
+    padding-bottom: 300px;
+}
+
+hr {
+   border-width: 100%;
+}
